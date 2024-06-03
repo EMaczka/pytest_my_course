@@ -53,7 +53,7 @@ while True:
 In this example, the "while" loop continues until the user enters 'q', at which point the break statement is used to
 exit the loop.
 
-## Sumary
+## Summary
 
 The "while" loop is a powerful tool for creating loops in Python that execute as long as a condition remains true. It's
 commonly used for tasks that require repeated execution until a certain condition is met. However, you should be

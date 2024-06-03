@@ -67,7 +67,7 @@ def greet(name="User"):
 
 In this example, if no `name` is provided when calling `greet`, it defaults to "User".
 
-## Sumary
+## Summary
 
 Parameters allow you to make your functions and methods more versatile by accepting different inputs. They are
 placeholders for actual data that will be passed to functions and methods when they are called. Understanding how to use

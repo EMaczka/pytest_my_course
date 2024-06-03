@@ -29,12 +29,12 @@ to create complex
 conditions in Python. These conditions are used to make decisions and control the flow of your code based on the values
 of variables and the results of comparisons.
 
-## Sumary
+## Summary
 
 Understanding how to use logical operators and comparisons effectively is essential for writing code that can make
 informed decisions and respond to various scenarios.
 
-### [logical and comparision operators exercises][1]
+### [logical and comparison operators exercises][1]
 ### [Section 9: The "if" Statement in Python][2]
 
 

@@ -71,7 +71,7 @@ example:
 person = {"name": "John", "age": 30, "city": "New York"}
 ```
 
-## Sumary
+## Summary
 These are some fundamental data types in Python. Understanding how to work with these types and knowing when to
 use them is essential for writing effective Python code.
 

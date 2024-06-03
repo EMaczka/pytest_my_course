@@ -52,7 +52,7 @@ print_info("Alice", "Bob", age=30, city="New York")
 In this example, the `print_info` function uses both `*args` and `**kwargs` to accept a variable number of positional
 and keyword arguments. We then print the positional arguments and the key-value pairs.
 
-## Sumary
+## Summary
 
 `**kwargs` is a powerful feature in Python that allows functions to accept a variable number of keyword arguments. It's
 useful when you want to pass a flexible set of named parameters to a function. Understanding how to use `**kwargs` can

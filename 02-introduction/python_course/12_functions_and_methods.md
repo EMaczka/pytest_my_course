@@ -53,7 +53,7 @@ In this example, `say_hello` is a method of the `MyClass` class.
 * Methods are associated with a specific object and can access and modify its state.
 * Functions are stand-alone, while methods are defined within a class and typically operate on instance variables.
 
-## Sumary
+## Summary
 
 Functions and methods are crucial for code organization, reusability, and maintainability. Functions provide a way to
 modularize code and perform specific tasks, while methods are functions associated with specific objects or data types,

@@ -65,8 +65,6 @@ Asserts that `condition` is `False`.
 
 ```python
 def test_assert_false():
-
-
     assert 5 < 3 is False
 ```
 

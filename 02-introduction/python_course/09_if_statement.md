@@ -78,7 +78,7 @@ else:
 
 In this example, the "elif" block with `x == 5` will be executed because none of the previous conditions are true.
 
-## Sumary
+## Summary
 
 The "if" statement is a fundamental building block of Python programming that allows you to create conditional logic in
 your code. It enables you to make decisions and execute specific code blocks based on the evaluation of conditions.

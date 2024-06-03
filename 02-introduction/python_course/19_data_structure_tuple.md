@@ -65,7 +65,7 @@ my_tuple = (1, 2, 2, 3, 3, 3)
 count_of_2 = my_tuple.count(2)  # Count occurrences of 2
 index_of_3 = my_tuple.index(3)  # Get index of the first 3
 
-print(count_of_2)  # Output: 1
+print(count_of_2)  # Output: 2
 print(index_of_3)  # Output: 3
 ```
 
